@@ -1,3 +1,6 @@
+// destructive merge sort for lists
+// Takuo Watanabe
+
 #include <stdlib.h>
 
 #include "elem.h"

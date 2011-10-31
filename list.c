@@ -1,3 +1,6 @@
+// simple list library
+// Takuo Watanabe
+
 #include <stdio.h>
 #include <stdlib.h>
 

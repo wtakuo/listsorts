@@ -1,3 +1,6 @@
+// simple list library
+// Takuo Watanabe
+
 typedef struct list_cell {
     elem_t val;
     struct list_cell *next;
