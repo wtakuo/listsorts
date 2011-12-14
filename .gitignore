@@ -1,6 +1,8 @@
 .DS_Store
 *~
 *.o
+*.d
+*.dSYM
 *.gcno
 *.gcov
 *.gcda
